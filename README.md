@@ -10,7 +10,7 @@ Um Jogo em que sua história se passa na Segunda Guerra Mundial. O nome Smoking 
 
 inicialmente o menu do jogo conta com tres opções; Play, Options e Quit.
 
-![menuPrint](https://user-images.githubusercontent.com/102993693/170869683-544aba7b-1c63-4e18-bf22-4d58ab9c7e7e.png)
+![Captura de tela de 2022-06-03 08-37-51](https://user-images.githubusercontent.com/102993693/171865320-ec32e882-a2d3-47e5-b761-79db8287a2b3.png)
 
 O botão **PLAY** realiza a troca de cena (ou para melhor entendimento, inicia o jogo).
 
@@ -18,9 +18,11 @@ O botão **PLAY** realiza a troca de cena (ou para melhor entendimento, inicia o
 
 OBS: Smoking Snakers é um jogo que ainda está em desenvolvimento, portanto, para testes de carregamento de cenas, nós colocamos animações que "simulam" o inicio das mesmas.
 
-![telaPlay](https://user-images.githubusercontent.com/102993693/170869861-ebf3a141-f598-4b2c-b08c-540fa7ec0b22.png)
+![Captura de tela de 2022-06-03 08-39-35](https://user-images.githubusercontent.com/102993693/171865426-3ce8c36e-9cd3-4c9f-bc8a-a0310a6721a1.png)
 
 O botão **OPTIONS** abre o painel de opções e acessibilidade ao jogador, como a seleção de dificuldades, volume do som, etc...
+
+![Captura de tela de 2022-06-03 08-38-06](https://user-images.githubusercontent.com/102993693/171865506-4c95613a-1599-4fe6-8098-65cc4d1943f0.png)
 
 ![Button_options](https://user-images.githubusercontent.com/102993693/170870324-fe77b6dc-3ad4-40d3-acef-5d1602b42312.png)
 
