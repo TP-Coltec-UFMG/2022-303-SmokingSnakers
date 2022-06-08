@@ -2,6 +2,10 @@
 
 ![titleName](https://user-images.githubusercontent.com/102993693/170867513-6f25c192-07a6-4fa7-a1cf-51e5c29b4072.png)
 
+**grupo**
+- Bernardo Vale Dos Santos Bento
+- Pedro Henrique Dutra Durães
+
 # SMOKING SNAKERS
 
 Um Jogo em que sua história se passa na Segunda Guerra Mundial. O nome Smoking Sneakers foi inspirado na expressão "a cobra vai fumar", frase icônica da Força Aérea Brasileira na Segunda Grande Guerra.
