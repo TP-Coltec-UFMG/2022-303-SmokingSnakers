@@ -45,9 +45,9 @@ Por fim (por enquanto), temos o Botão **QUIT** que simplesmente realiza o fecha
 
 # Gameplay
 
-OBS: Smoking Snakers é um jogo que ainda está em desenvolvimento, portando a gameplay e visual do jogo podem ser alterados até sua versão final.
+OBS: Smoking Snakers é um jogo que ainda está em desenvolvimento, portanto a gameplay, visual e features do jogo podem ser alterados até sua versão final.
 
-A luz e o padrão estético "avermelhado" do cenário está sendo respeitado assim como está representado no menu do game.
+A luz e o padrão estético "avermelhado" do cenário está sendo respeitado, assim como está representado no menu do game.
 
 ![image](https://user-images.githubusercontent.com/102993693/181546074-4901955a-8e3e-468b-bab1-35c5dec20621.png)
 
@@ -56,6 +56,20 @@ O mapa conta com construções e objetos que estão sendo modelados com o uso do
 ![image](https://user-images.githubusercontent.com/102993693/181550698-2f90c3dd-e0cc-4ebb-95c0-ef6a1f53819e.png)
 
 
+**inimigos**
+
+Os inimigos do jogo serão gerados a partir de um ponto fora da tela do player, eles são guiados através de um ponto que é definido por o player se encontra.
+
+![image](https://user-images.githubusercontent.com/102993693/181561289-246da3e5-7b9c-42d7-9e47-55cea943f689.png)
+
+![image](https://user-images.githubusercontent.com/102993693/181561505-e0fa623a-75f3-4a18-9c13-525aacd516ea.png)
+
+
+**Arnas**
+
+O sistema de balas ja está sendo implementado. As balas acabam a medida que o player atira utilizando o mouse ou recarregam ao apertar a tecla "r". Observe o contador de vida, e munição no canto inferior esquerdo da tela.
+
+![image](https://user-images.githubusercontent.com/102993693/181563733-57e21e40-b18f-4861-a996-dd0d10c08592.png)
 
 
 
