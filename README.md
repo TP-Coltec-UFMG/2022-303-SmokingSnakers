@@ -20,10 +20,6 @@ O botão **PLAY** realiza a troca de cena (ou para melhor entendimento, inicia o
 
 ![Button_play](https://user-images.githubusercontent.com/102993693/170870302-cedf0dd0-f1a7-4ef1-9a07-e3696d3963ff.png)
 
-OBS: Smoking Snakers é um jogo que ainda está em desenvolvimento, portanto, para testes de carregamento de cenas, nós colocamos animações que "simulam" o inicio das mesmas.
-
-![Captura de tela de 2022-06-03 08-39-35](https://user-images.githubusercontent.com/102993693/171865426-3ce8c36e-9cd3-4c9f-bc8a-a0310a6721a1.png)
-
 O botão **OPTIONS** abre o painel de opções e acessibilidade ao jogador, como a seleção de dificuldades, volume do som, etc...
 
 ![Captura de tela de 2022-06-03 08-38-06](https://user-images.githubusercontent.com/102993693/171865506-4c95613a-1599-4fe6-8098-65cc4d1943f0.png)
@@ -45,6 +41,22 @@ Por fim (por enquanto), temos o Botão **QUIT** que simplesmente realiza o fecha
 ![Button_Quit](https://user-images.githubusercontent.com/102993693/170870338-2afc0747-0071-489f-b697-861d6f141fe7.png)
 
 ![Captura de tela de 2022-06-03 08-40-00](https://user-images.githubusercontent.com/102993693/171865973-3fe4696c-72b6-44bf-a8e8-2ceb388142a3.png)
+
+
+# Gameplay
+
+OBS: Smoking Snakers é um jogo que ainda está em desenvolvimento, portando a gameplay e visual do jogo podem ser alterados até sua versão final.
+
+A luz e o padrão estético "avermelhado" do cenário está sendo respeitado assim como está representado no menu do game.
+
+![image](https://user-images.githubusercontent.com/102993693/181546074-4901955a-8e3e-468b-bab1-35c5dec20621.png)
+
+O mapa conta com construções e objetos que estão sendo modelados com o uso do Package Manager ProBuilder, que é uma ferramenta bem prática de ser utilizada e que está disponível no Unity pelo caminho Windows > Package Manager > ProBuilder
+
+![image](https://user-images.githubusercontent.com/102993693/181550698-2f90c3dd-e0cc-4ebb-95c0-ef6a1f53819e.png)
+
+
+
 
 
 
