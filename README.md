@@ -47,15 +47,16 @@ Por fim (por enquanto), temos o Botão **QUIT** que simplesmente realiza o fecha
 
 OBS: Smoking Snakers é um jogo que ainda está em desenvolvimento, portanto a gameplay, visual e features do jogo podem ser alterados até sua versão final.
 
-A luz e o padrão estético "avermelhado" do cenário está sendo respeitado, assim como está representado no menu do game.
+A luz e o padrão estético "avermelhado" do cenário está sendo respeitado, assim como está representado no menu do game. Desse modo, já estão sendo implementadas as texturas do game.
 
 ![Captura de tela de 2022-08-29 08-11-48](https://user-images.githubusercontent.com/102993693/187188972-b9636ff2-56e2-494a-af86-b10701130538.png)
 
+![Captura de tela de 2022-08-29 08-12-20](https://user-images.githubusercontent.com/102993693/187190036-ac84ee7a-e838-40bd-8984-b631bc107bbf.png)
+
+
 O mapa conta com construções e objetos que estão sendo modelados com o uso do Package Manager ProBuilder, que é uma ferramenta bem prática de ser utilizada e que está disponível no Unity pelo caminho Windows > Package Manager > ProBuilder
 
-![image](https://user-images.githubusercontent.com/102993693/181550698-2f90c3dd-e0cc-4ebb-95c0-ef6a1f53819e.png)
-
-![Captura de tela de 2022-08-29 08-08-00](https://user-images.githubusercontent.com/102993693/187189060-32a9fd8d-0d96-4a65-b68d-08449337cec1.png)
+![Captura de tela de 2022-08-29 08-17-54](https://user-images.githubusercontent.com/102993693/187189763-0e747bda-6337-4c17-b9e6-9e1f2666d31b.png)
 
 **inimigos**
 
@@ -63,20 +64,16 @@ Os inimigos do jogo serão gerados a partir de um ponto fora da tela do player, 
 
 ![Captura de tela de 2022-08-29 08-09-59](https://user-images.githubusercontent.com/102993693/187189161-d57a1456-9866-4a1e-ba69-a978323e74b7.png)
 
-![image](https://user-images.githubusercontent.com/102993693/181561289-246da3e5-7b9c-42d7-9e47-55cea943f689.png)
-
-![image](https://user-images.githubusercontent.com/102993693/181561505-e0fa623a-75f3-4a18-9c13-525aacd516ea.png)
-
-
 **Arnas**
 
 O sistema de balas ja está sendo implementado. As balas acabam a medida que o player atira utilizando o mouse ou recarregam ao apertar a tecla "r". Observe o contador de vida, e munição no canto inferior esquerdo da tela.
 
 ![Captura de tela de 2022-08-29 08-09-40](https://user-images.githubusercontent.com/102993693/187189202-3a2f58f1-e0be-4cd5-8632-1db92816417d.png)
 
-![image](https://user-images.githubusercontent.com/102993693/181563733-57e21e40-b18f-4861-a996-dd0d10c08592.png)
 
 
 
 
 
+
+/Packages/packages-lock.json
