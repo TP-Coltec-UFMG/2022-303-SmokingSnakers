@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -16,6 +17,7 @@ public class Player : MonoBehaviour
     [SerializeField] private float gravity = 10.0f;
     [SerializeField] Transform playerBody;
     [SerializeField] private Camera playerCamera;
+    [SerializeField] private string cenaUpgrades;
 
     private float mouseX;
     private float mouseY;
@@ -37,6 +39,22 @@ public class Player : MonoBehaviour
 
     [HideInInspector]
     public bool canMove = true;
+
+    void OnTriggerEnter(Collider elementoColidido) {
+
+        if (elementoColidido.CompareTag("Inimigo")) {
+
+            vida--;
+
+            if(vida <= 0){
+
+                SceneManager.LoadScene(cenaUpgrades);
+
+            }
+
+        }
+
+    }
 
     void Start()
     {
