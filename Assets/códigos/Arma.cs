@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Audio;
 using UnityEngine;
 
 public class Arma : MonoBehaviour
@@ -15,6 +16,9 @@ public class Arma : MonoBehaviour
     public float tempo_recarregar = 2;
     float deltaUltimoTiro;
     public Camera cam;
+    public AudioSource tiroSom;
+    public AudioSource recarregarSom;
+    public AudioSource semMunicaoSom;
 
     [HideInInspector]
     public bool recarregando = false;
@@ -39,8 +43,13 @@ public class Arma : MonoBehaviour
                 }
 
             }
+            tiroSom.Play();
             municao--;
             deltaUltimoTiro = 0;
+
+        } else if (municao <= 0){
+
+            semMunicaoSom.Play();
 
         }
 
@@ -50,6 +59,7 @@ public class Arma : MonoBehaviour
 
         recarregando = true;
         print("recarregando");
+        recarregarSom.Play();
 
         yield return new WaitForSeconds(tempo_recarregar);
 
@@ -58,6 +68,11 @@ public class Arma : MonoBehaviour
         recarregando = false;
 
     }
+
+    void Start(){
+
+    }
+
     void Update(){
 
         deltaUltimoTiro += Time.deltaTime;

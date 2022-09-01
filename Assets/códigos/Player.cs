@@ -37,6 +37,8 @@ public class Player : MonoBehaviour
 
     private float movementDirectionY;
 
+    private AudioSource danoSom;
+
     [HideInInspector]
     public bool canMove = true;
 
@@ -45,9 +47,11 @@ public class Player : MonoBehaviour
         if (elementoColidido.CompareTag("Inimigo")) {
 
             vida--;
+            danoSom.Play();
 
             if(vida <= 0){
-
+                Cursor.lockState = CursorLockMode.None;
+                Cursor.visible = true;
                 SceneManager.LoadScene(cenaUpgrades);
 
             }
@@ -58,6 +62,7 @@ public class Player : MonoBehaviour
 
     void Start()
     {
+        danoSom = GetComponent<AudioSource>();
         characterController = GetComponent<CharacterController>();
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
