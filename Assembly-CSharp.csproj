@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{915e3938-b57d-67f4-3465-3c247453dce5}</ProjectGuid>
+    <ProjectGuid>{2f0ca25b-515c-b3ed-5b2c-30d066710a34}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -308,13 +308,13 @@
         <HintPath>/home/aluno/Unity/Hub/Editor/2021.3.4f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>/home/aluno/Unity/Hub/Editor/2021.3.4f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
@@ -683,106 +683,106 @@
         <HintPath>/home/aluno/Unity/Hub/Editor/2021.3.4f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Sysroot.Linux_x86_64">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Toolchain.Linux-x86_64">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core.Analytics">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Services.Core.Environments">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Toolchain.Win-x86_64-Linux-x86_64">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.Toolchain.Win-x86_64-Linux-x86_64.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.Toolchain.Win-x86_64-Linux-x86_64.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.SysrootPackage.Editor">
-        <HintPath>/home/aluno/Documentos/ProjetosUnity/2022-303-SmokingSnakers/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+        <HintPath>/home/aluno/Documentos/ProjetosUnity/Cobras-Fumantes/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
